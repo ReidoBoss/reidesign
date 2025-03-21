@@ -1,8 +1,8 @@
 # Notification Table Design
 
 This design is inspired from these two designs:
-[CRUDdy by Design](https://github.com/adamwathan/laracon2017)
-[Designing a Notificaton Design](https://tannguyenit95.medium.com/designing-a-notification-system-1da83ca971bc)
+- [CRUDdy by Design](https://github.com/adamwathan/laracon2017)
+- [Designing a Notificaton Design](https://tannguyenit95.medium.com/designing-a-notification-system-1da83ca971bc)
 
 ## Key Values
 
